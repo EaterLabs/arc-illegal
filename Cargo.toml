@@ -1,0 +1,6 @@
+[package]
+name = "eater-arc-illegal"
+version = "0.1.0"
+authors = ["eater <=@eater.me>"]
+edition = "2018"
+license = "MIT or Apache-2.0"
