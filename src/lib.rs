@@ -36,7 +36,7 @@ use std::sync::atomic::{AtomicUsize, Ordering};
 /// });
 ///
 /// println!("{}", a);
-/// delay(Duration::from_millis(50));
+/// sleep(Duration::from_millis(50));
 /// println!("{}", a);
 /// ```
 pub struct ArcIllegal<T> {
