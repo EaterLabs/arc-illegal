@@ -1,6 +1,8 @@
 [package]
 name = "eater-arc-illegal"
+description = "An Arc that allows multiple mutable references (illegal!)"
 version = "0.1.0"
 authors = ["eater <=@eater.me>"]
 edition = "2018"
-license = "MIT or Apache-2.0"
+license = "MIT"
+repository = "https://github.com/EaterLabs/arc-illegal"
